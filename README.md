@@ -1,1 +1,21 @@
-# ROM-router-nested-fin-example-
+# Getting Started 
+
+## Install
+
+```
+git clone https://github.com/ROM-code-example/ROM-router-nested-fin-example-.git
+cd ROM-router-nested-fin-example-
+npm install
+```
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
